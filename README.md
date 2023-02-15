@@ -1,4 +1,4 @@
-<img src="https://js.devexpress.com/Content/ImagesNew/Overview/react-banner.jpg" />
+<img src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png" />
 <h1 align="center">Hi 👋, I'm Touisse</h1>
 
 <h3 align="center">A passionate frontend developer from Morocco</h3>
