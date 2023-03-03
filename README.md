@@ -38,4 +38,5 @@
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=touisse&theme=gotham" alt="touisse" /></p>
 
  <br>
-    <a href= "https://wakatime.com/@Touisse" align="center" target="_blank"><img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Touisse&layout=compact&theme=gotham"/></a>
+     <a href= "https://github.com/ahmedelbahri?tab=repositories"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touisse&layout=compact&card_width=445px&custom_title=Used&nbsp;Languages&theme=gotham&count_private=true"/></a>
+
