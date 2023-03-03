@@ -32,7 +32,7 @@
  <h3 align="left">Github Stats:</h3>
  
 
-<p><img align="center" width="40%" src="http://github-readme-stats.vercel.app/api/top-langs?username=Touisse&show_icons=true&locale=en&layount=compact&theme=gotham" /> </p>
+
 <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=touisse&show_icons=true&locale=en&theme=gotham" alt="touisse" /></p>
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=touisse&theme=gotham" alt="touisse" /></p>
