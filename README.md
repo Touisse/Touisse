@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=touisse&show_icons=true&locale=en&theme=gotham" alt="touisse" /></p>
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=touisse&theme=gotham" alt="touisse" /></p>
+
+ <br>
+    <a href= "https://wakatime.com/@Touisse" align="center" target="_blank"><img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Touisse&layout=compact&theme=gotham"/></a>
