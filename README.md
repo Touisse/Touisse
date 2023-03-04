@@ -1,7 +1,7 @@
 <img src="https://www.xpand-it.com/wp-content/uploads/2020/04/AFBannerReact_1920x500.png" />
 <h1 align="center" style="background-color:DodgerBlue;">Hi 👋, I'm Yassine TOUISSE</h1>
 
-<h3 align="center" >A passionate frontend developer from Morocco</h3>
+<h3 align="center" >A passionate Web developer from Morocco</h3>
 <a href="https://github.com/oakoudad/badge42"><img align="right" alt="coding" width="400"  src="https://badge.mediaplus.ma/binary/ytouisse" alt="ytouisse's 42 stats" /></a>
 
 
