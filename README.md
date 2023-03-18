@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yassinetouisse" target="blank"><img src="https://img.shields.io/twitter/follow/yassinetouisse?logo=twitter&style=for-the-badge" alt="yassinetouisse" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Touisse](https://github.com/Touisse)
 
