@@ -4,8 +4,6 @@
 </h1>
 
 <h3 align="center" >A passionate Web developer from Morocco</h3>
-<a href="https://github.com/oakoudad/badge42"><img align="right" alt="coding" width="400"  src="https://badge.mediaplus.ma/binary/ytouisse" alt="ytouisse's 42 stats" /></a>
-
 
 <p align="left"> <a href="https://twitter.com/yassinetouisse" target="blank"><img src="https://img.shields.io/twitter/follow/yassinetouisse?logo=twitter&style=for-the-badge" alt="yassinetouisse" /></a> </p>
 
